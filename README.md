@@ -242,6 +242,7 @@ O projeto envolveu quatro etapas principais: (i) construção da base de tipolog
 
 Sou um profissional apaixonado por geoprocessamento, cartografia e análise espacial. Minha experiência inclui regularização ambiental, desenvolvimento de mapas temáticos e projetos de cartografia aplicada. Busco unir ciência de dados e geotecnologias para criar soluções que contribuam para o desenvolvimento sustentável.
 
+- **Portfólio de Cartografia**: [Explorar Portfólio](https://samuelsantos.site/cartografia/)  
 - **LinkedIn**: [Samuel Santos](https://www.linkedin.com/in/samuelsantos-amb/)  
 - **Cartão Digital**: [Samuel Santos](https://dot.cards/samuelsantos)  
 - **E-mail**: samuelsantosambiental@gmail.com  
