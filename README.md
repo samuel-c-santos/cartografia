@@ -94,7 +94,6 @@ Evidencia as áreas com maior potencial de saturação do solo.
 ![Mapa de Pedologia com Sobreposição de Elevação](terrain_analysis/Mapa%20de%20Pedologia%20com%20Sobreposição%20de%20Elevação%20–%20Município%20de%20Bragança,%20Parácópia.png)  
 Combinação do mapa de pedologia com o MDE, facilitando a interpretação do comportamento do solo em função do relevo.
 
-
 ### Conclusões
 
 Este projeto demonstrou a integração entre dados de elevação e ferramentas de SIG para criar representações cartográficas detalhadas do município de Bragança. Os mapas gerados possuem aplicações em planejamento ambiental, estudos hidrológicos e geomorfológicos, além de servirem como base para futuras análises de uso e ocupação do solo.
@@ -226,7 +225,7 @@ Este mapa foi elaborado como parte de um estudo do Programa de Pós-Graduação 
 
 ---
 
-## Projeto 7: Cálculo do Passivo de Reserva Legal no Estado do Pará
+## Projeto 9: Cálculo do Passivo de Reserva Legal no Estado do Pará
 
 ### Resumo do Projeto
 Este projeto visa estimar o **passivo de Reserva Legal (RL)** no Estado do Pará, auxiliando na compensação e regularização ambiental conforme os requisitos do **Código Florestal (Lei nº 12.651/2012)**. A metodologia considera tipologias vegetais, remanescentes de vegetação nativa e a base do **Cadastro Ambiental Rural (CAR)**, garantindo um mapeamento preciso das áreas deficitárias. Foram utilizadas bases geoespaciais como **MapBiomas, SNIRH/ANA e SICAR**, além de processamento no **PostgreSQL/PostGIS, Python e QGIS 3.34.3**.
@@ -247,5 +246,3 @@ Sou um profissional apaixonado por geoprocessamento, cartografia e análise espa
 - **Cartão Digital**: [Samuel Santos](https://dot.cards/samuelsantos)  
 - **E-mail**: samuelsantosambiental@gmail.com  
 - **Portfólio de Análise de Dados**: [Explorar Portfólio](https://github.com/samuel-c-santos)
-
----
