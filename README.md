@@ -238,6 +238,21 @@ O projeto envolveu quatro etapas principais: (i) construção da base de tipolog
 ### Repositório
 [Confira o projeto completo no GitHub](https://github.com/nidgeo-digeo-semas/passivo_compensacao)
 
+---
+
+## Projeto 10: Sobreposição entre FLOTAs da Calha Norte e Terras Indígenas
+
+### Resumo do Projeto
+Este mapa foi elaborado para apresentar a análise de sobreposição entre as **Florestas Estaduais (FLOTAs) da Calha Norte** e as **Terras Indígenas** no estado do Pará. O projeto destaca o uso de **recursos avançados de HTML no template do QGIS** para gerar gráficos de alta resolução e elementos visuais altamente personalizados ao layout cartográfico.
+
+A metodologia envolveu a utilização de **expressões HTML** integradas ao compositor de impressão do QGIS, permitindo a criação de tabelas dinâmicas, gráficos estatísticos e elementos de design customizados que vão além das capacidades padrão do software. Esta abordagem possibilita a produção de mapas com aparência profissional e informações visuais ricas, mantendo a precisão cartográfica.
+
+### Resultado
+![Sobreposição entre FLOTAs da Calha Norte e Terras Indígenas](SOBREPOSIÇÃO%20ENTRE%20FLOTAS%20DA%20CALHA%20NORTE%20E%20TERRAS%20INDÍGENAS%20(2).png)
+
+### Material Completo
+- [Download do PDF em alta resolução](SOBREPOSIÇÃO%20ENTRE%20FLOTAS%20DA%20CALHA%20NORTE%20E%20TERRAS%20INDÍGENAS%20-%20com%20tabelas.pdf)
+
 ## Sobre Mim
 
 Sou um profissional apaixonado por geoprocessamento, cartografia e análise espacial. Minha experiência inclui regularização ambiental, desenvolvimento de mapas temáticos e projetos de cartografia aplicada. Busco unir ciência de dados e geotecnologias para criar soluções que contribuam para o desenvolvimento sustentável.
